@@ -21,5 +21,5 @@ Project này được thiết kế tập trung vào 4 nhóm technical skills c�
 **Nội dung:** Tiến hành tạo dựng dashboard báo cáo doanh thu cho một công ty thực phẩm.
 ### Spreadsheet
 **Tool:** Excel.\
-**File:** [Solver.xlsx](https://github.com/AnhMIS/Data_Analysis/blob/main/Solver.xlsx), [Coffee_Shop_Sales.xlsx](https://github.com/AnhMIS/Data_Analysis/blob/main/Coffee%20Shop%20Sales.xlsx)\
+**File:** [Solver.xlsx](https://github.com/AnhMIS/Data_Analysis/blob/main/Solver.xlsx), [Coffee_Shop_Sales.xlsx](https://github.com/AnhMIS/Data_Analysis/blob/main/Coffee_Shop_Sales.xlsx)\
 **Nội dung:** File Solver giải quyết các bài toán tối ưu bằng việc sử dụng add-in Solver. File Coffee_Shop_Sales tạo báo cáo doanh thu cho một cửa hàng cà phê.
