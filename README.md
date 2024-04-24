@@ -17,7 +17,7 @@ Project này được thiết kế tập trung vào 4 nhóm technical skills c�
 **Nội dung:** Tiến hành truy vấn trên file Sakila.sql với cơ sở dữ liệu quan hệ của một cửa hàng cho thuê băng đĩa. File [Sakila_DB_diagram.png](https://github.com/AnhMIS/Data_Analysis/blob/main/Sakila_DB_diagram.png) chính là schema diagram của cơ sở dữ liệu đó.
 ### Data Visualization
 **Tool:** Power BI.\
-**File:** [Revenue_dashboard.pbix](https://github.com/AnhMIS/Data_Analysis/blob/main/Data_Jobs_Analysis.ipynb)\
+**File:** [Revenue_dashboard.pbix](https://github.com/AnhMIS/Data_Analysis/blob/main/Revenue_dashboard.pbix)\
 **Nội dung:** Tiến hành tạo dựng dashboard báo cáo doanh thu cho một công ty thực phẩm.
 ### Spreadsheet
 **Tool:** Excel.\
