@@ -7,7 +7,7 @@ Project này được thiết kế tập trung vào 4 nhóm technical skills c�
  - Spreadsheet
 ## Cấu trúc
 ### Python
-**File:** [Car_transaction.ipynb](https://github.com/AnhMIS/Data_Analysis/blob/main/Car_transaction.ipynb))\
+**File:** [Car_transaction.ipynb](https://github.com/AnhMIS/Data_Analysis/blob/main/Car_transaction.ipynb)\
 **Thư viện sử dụng:** pandas, numpy, matplotlib, seaborn, scikit-learn.\
 **Nội dung:** Tiến hành những phân tích trên bộ dữ liệu về Giá bán ô tô.\
 **Link bộ dữ liệu:** https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
@@ -22,4 +22,4 @@ Project này được thiết kế tập trung vào 4 nhóm technical skills c�
 ### Spreadsheet
 **Tool:** Excel.\
 **File:** [Solver.xlsx](https://github.com/AnhMIS/Data_Analysis/blob/main/Solver.xlsx), [Coffee_Shop_Sales.xlsx](https://github.com/AnhMIS/Data_Analysis/blob/main/Coffee_Shop_Sales.xlsx)\
-**Nội dung:** File Solver giải quyết các bài toán tối ưu bằng việc sử dụng add-in Solver. File Coffee_Shop_Sales tạo báo cáo doanh thu cho một cửa hàng cà phê.
+**Nội dung:** File Solver giải quyết các bài toán tối ưu bằng việc sử dụng add-in Solver. File Coffee_Shop_Sales tạo dashboard báo cáo doanh thu cho một cửa hàng cà phê.
