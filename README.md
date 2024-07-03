@@ -7,10 +7,10 @@ Project này được thiết kế tập trung vào 4 nhóm technical skills c�
  - Spreadsheet
 ## Cấu trúc
 ### Python
-**File:** [Data_Jobs_Analysis.ipynb](https://github.com/AnhMIS/Data_Analysis/blob/main/Data_Jobs_Analysis.ipynb)\
-**Thư viện sử dụng:** pandas, numpy, matplotlib, seaborn.\
-**Nội dung:** Tiến hành những phân tích trên bộ dữ liệu về Việc làm và mức lương trong lĩnh vực dữ liệu từ năm 2020 - 2024.\
-**Link bộ dữ liệu:** https://www.kaggle.com/datasets/murilozangari/jobs-and-salaries-in-data-field-2024
+**File:** [Car_transaction.ipynb](https://github.com/AnhMIS/Data_Analysis/blob/main/Car_transaction.ipynb))\
+**Thư viện sử dụng:** pandas, numpy, matplotlib, seaborn, scikit-learn.\
+**Nội dung:** Tiến hành những phân tích trên bộ dữ liệu về Giá bán ô tô.\
+**Link bộ dữ liệu:** https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
 ### SQL
 **Tool:** SQL Server Management Studio.\
 **File:** [Sakila.sql](https://github.com/AnhMIS/Data_Analysis/blob/main/Sakila.sql)\
